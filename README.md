@@ -23,7 +23,7 @@ in United state of America from three different companies break down e.g sales, 
 - Exploratory Analysis
 
   ### Tools Uses
-  _ Python Vscode Jupyter Notebook
+  - Python Vscode Jupyter Notebook
   - Tableau Dashboard 
 
   ### C. Present  Finding And Recommendation
@@ -52,3 +52,4 @@ For high-profit but low-volume products, explore ways to increase awareness and 
 
 ![image](https://github.com/user-attachments/assets/56f24fb2-e9d7-4a2f-9c71-7ad1e19e8630)
 
+https://drive.google.com/file/d/1_i1KfMh2nVQPGfT4S7yfXhlLZToiwEfg/view?usp=drive_link
