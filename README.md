@@ -49,3 +49,6 @@ vice versa
 - Recomendation: To strike a balance between volume-driven and profit-driven products. Ensure that products 
 with high sales volume but low profit margins have an optimized supply chain or adjusted pricing strategies. 
 For high-profit but low-volume products, explore ways to increase awareness and visibility. etc
+
+![image](https://github.com/user-attachments/assets/56f24fb2-e9d7-4a2f-9c71-7ad1e19e8630)
+
